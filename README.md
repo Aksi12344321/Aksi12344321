@@ -51,7 +51,7 @@
 
 ## 📬 Мои контакты  
 
-- 📧 Email: aksi1234@yandex.ru  
+- 📧 aksi1234@yandex.ru  
 - 🌐 [Telegram](https://t.me/Aksi1234) 
 - 💻 [GitHub](https://github.com/Aksi12344321)  
 
