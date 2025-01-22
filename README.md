@@ -52,7 +52,6 @@
 ## 📬 Мои контакты  
 
 - 📧 aksi1234@yandex.ru
-- [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=email&logoColor=white)](mailto:aksi1234@yandex.ru)
 - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aksi1234) 
 
 Я открыта для интересных проектов и готова внести свой вклад в инновационные команды. Давайте создавать что-то невероятное вместе! 🌸
